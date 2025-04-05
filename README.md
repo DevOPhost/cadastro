@@ -16,7 +16,7 @@ Este é um sistema web simples para cadastro de alunos de uma faculdade, desenvo
 
 ##  Tecnologias utilizadas
 
-- **Frontend:** HTML e CSS
+- **Frontend:** pode ser usado HTML e CSS
 - **Backend:** PHP
 - **Banco de Dados:** MySQL
 - **Servidor local:** XAMPP (Apache + MySQL)
@@ -44,5 +44,8 @@ CREATE TABLE alunos (
 );
 
 Como executar?
-http://localhost/nome-da-pasta/
+Cadastro: http://localhost/cadastro_alunos/index.php
+Listagem: http://localhost/cadastro_alunos/listar.php
+Acesse http://localhost/cadastro_alunos/exportar_json.php para baixar o JSON.
+
 
