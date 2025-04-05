@@ -2,19 +2,19 @@
 
 Este é um sistema web simples para cadastro de alunos de uma faculdade, desenvolvido com PHP e MySQL. O sistema permite registrar, listar, editar, excluir, pesquisar e exportar informações dos alunos em formatos `.xls` e `.json`.
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - ✅ Cadastro de alunos (nome, CPF, matrícula, endereço, telefone)
-- 📋 Listagem de todos os alunos cadastrados
-- ✏️ Edição de dados dos alunos
-- 🗑️ Exclusão de alunos
-- 🔍 Campo de pesquisa (por nome, CPF ou matrícula)
-- 📁 Exportação de dados em `.xls` e `.json`
-- 🔒 Validação para não permitir cadastros com CPF duplicado
+- ✅ Listagem de todos os alunos cadastrados
+- ✅ Edição de dados dos alunos
+- ✅ Exclusão de alunos
+- ✅ Campo de pesquisa (por nome, CPF ou matrícula)
+- ✅ Exportação de dados em `.xls` e `.json`
+- ✅ Validação para não permitir cadastros com CPF duplicado
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - **Frontend:** HTML e CSS
 - **Backend:** PHP
@@ -23,7 +23,7 @@ Este é um sistema web simples para cadastro de alunos de uma faculdade, desenvo
 
 ---
 
-## 🧪 Como executar localmente
+##  Como executar localmente
 
 1. Instale o [XAMPP](https://www.apachefriends.org/pt_br/index.html)
 2. Inicie o Apache e o MySQL
